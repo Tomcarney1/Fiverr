@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: 'Oswald', sans-serif;
+	font-size: 22px;
+	background-color: lightblue;
+}
+
+header{
+	text-align: center;
+	color: white;
+	background-color: blue;
+	padding-top: 50px;
+	padding-bottom: 0.5px;
+	background-image: url("https://i.imgur.com/itCDcHN.jpg");
+     background-color: lightblue;
+
+}
+
+header img{
+	border-radius: 160px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+h2.caption{
+	color: #999999;
+	font-size: 10;
+	font-style: italic;
+	margin: 0;
+}
+
+h2{
+	color: blue;
+}
+
+a{
+	color: blue;
+}
+
+a:hover{
+	color: white;
+	background-color: blue;
+}
+
+footer a:hover{
+	color: blue;
+	background-color: white;
+}
+
+footer a{
+	color: white;
+}
+
+footer{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	border-radius: 0px;
+	border: 5px solid lightblue;
+}
